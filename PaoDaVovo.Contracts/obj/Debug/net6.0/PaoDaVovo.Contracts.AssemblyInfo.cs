@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaoDaVovo.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04002caba66b744997672ecffe4bf0276e4fc0c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c86d8dbc5dae9d5496a58add94996e6c06477b83")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaoDaVovo.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaoDaVovo.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
