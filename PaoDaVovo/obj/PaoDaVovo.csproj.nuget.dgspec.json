@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo/PaoDaVovo.csproj": {}
+  },
+  "projects": {
+    "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/PaoDaVovo.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/PaoDaVovo.Contracts.csproj",
+        "projectName": "PaoDaVovo.Contracts",
+        "projectPath": "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/PaoDaVovo.Contracts.csproj",
+        "packagesPath": "/Users/manoelfelipearaujo/.nuget/packages/",
+        "outputPath": "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/manoelfelipearaujo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo/PaoDaVovo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo/PaoDaVovo.csproj",
+        "projectName": "PaoDaVovo",
+        "projectPath": "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo/PaoDaVovo.csproj",
+        "packagesPath": "/Users/manoelfelipearaujo/.nuget/packages/",
+        "outputPath": "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/manoelfelipearaujo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/PaoDaVovo.Contracts.csproj": {
+                "projectPath": "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/PaoDaVovo.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

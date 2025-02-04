@@ -1,0 +1,13 @@
+@id=6e3f6548-2fdd-4a0e-ba59-e30943ef8732
+
+PUT https://localhost:7094/breakfasts/{{id}}
+Content-Type: application/json
+
+{
+    "name": "Café da manhã especial",
+    "description": "Junte-se a nós para um delicioso café da manhã em nossa padaria muito especial...",
+    "startDateTime": "2024-04-08T08:00:00",
+    "endDateTime": "2024-04-08T11:00:00",
+    "savory": ["Tapioca", "Misto quente", "Omelete de frango", "Ovos mexidos"],
+    "sweet": ["Salada de frutas"]
+}

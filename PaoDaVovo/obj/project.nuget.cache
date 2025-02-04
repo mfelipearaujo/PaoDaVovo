@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yEEVhd2GMbg7VuMVEDMDS6K4dtHVS5wmpRUImePIZeLYezYTcRmXHCpaf1osU8UX3ANbkXpsKDhwBtsXLcAbew==",
+  "success": true,
+  "projectFilePath": "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo/PaoDaVovo.csproj",
+  "expectedPackageFiles": [
+    "/Users/manoelfelipearaujo/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

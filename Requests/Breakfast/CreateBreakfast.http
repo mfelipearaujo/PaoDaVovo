@@ -1,0 +1,11 @@
+POST http://localhost:5286/breakfasts
+Content-Type: application/json
+
+{
+    "name": "Café da manhã",
+    "description": "Junte-se a nós para um delicioso café da manhã em nossa padaria muito especial...",
+    "startDateTime": "2024-04-08T08:00:00",
+    "endDateTime": "2024-04-08T11:00:00",
+    "savory": ["Tapioca", "Misto quente", "Omelete de frango", "Ovos mexidos"],
+    "sweet": ["Salada de frutas"]
+}

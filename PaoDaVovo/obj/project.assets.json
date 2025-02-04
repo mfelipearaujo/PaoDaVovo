@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ErrorOr/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "PaoDaVovo.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PaoDaVovo.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PaoDaVovo.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ErrorOr/2.0.1": {
+      "sha512": "aje9lUVEAsusPFmaRcVM5EUqWBofd7hYtb9N8+ycgPYrtOzyFajMpzRgIO4uuiCllNLBc3x48+cpA+4v4koUDQ==",
+      "type": "package",
+      "path": "erroror/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "erroror.2.0.1.nupkg.sha512",
+        "erroror.nuspec",
+        "icon-square.png",
+        "lib/net6.0/ErrorOr.dll",
+        "lib/net6.0/ErrorOr.xml",
+        "lib/netstandard2.0/ErrorOr.dll",
+        "lib/netstandard2.0/ErrorOr.xml"
+      ]
+    },
+    "PaoDaVovo.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../PaoDaVovo.Contracts/PaoDaVovo.Contracts.csproj",
+      "msbuildProject": "../PaoDaVovo.Contracts/PaoDaVovo.Contracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ErrorOr >= 2.0.1",
+      "PaoDaVovo.Contracts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/manoelfelipearaujo/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo/PaoDaVovo.csproj",
+      "projectName": "PaoDaVovo",
+      "projectPath": "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo/PaoDaVovo.csproj",
+      "packagesPath": "/Users/manoelfelipearaujo/.nuget/packages/",
+      "outputPath": "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/manoelfelipearaujo/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/PaoDaVovo.Contracts.csproj": {
+              "projectPath": "/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/PaoDaVovo.Contracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "ErrorOr": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

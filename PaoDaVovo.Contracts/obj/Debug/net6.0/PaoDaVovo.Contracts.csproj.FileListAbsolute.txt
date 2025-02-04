@@ -1,0 +1,11 @@
+/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/bin/Debug/net6.0/PaoDaVovo.Contracts.deps.json
+/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/bin/Debug/net6.0/PaoDaVovo.Contracts.dll
+/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/bin/Debug/net6.0/PaoDaVovo.Contracts.pdb
+/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/obj/Debug/net6.0/PaoDaVovo.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/obj/Debug/net6.0/PaoDaVovo.Contracts.AssemblyInfoInputs.cache
+/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/obj/Debug/net6.0/PaoDaVovo.Contracts.AssemblyInfo.cs
+/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/obj/Debug/net6.0/PaoDaVovo.Contracts.csproj.CoreCompileInputs.cache
+/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/obj/Debug/net6.0/PaoDaVovo.Contracts.dll
+/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/obj/Debug/net6.0/refint/PaoDaVovo.Contracts.dll
+/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/obj/Debug/net6.0/PaoDaVovo.Contracts.pdb
+/Users/manoelfelipearaujo/Programming/freeCodeCamp/Industry Level REST API using .NET 6 – Tutorial for Beginners/PaoDaVovo/PaoDaVovo.Contracts/obj/Debug/net6.0/ref/PaoDaVovo.Contracts.dll
